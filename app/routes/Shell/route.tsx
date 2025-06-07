@@ -3,7 +3,7 @@ import {HomeContainer} from "./Container";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "My app" },
+    { title: "My App: Home" },
     { name: "description", content: "Dummy app." },
   ];
 }
